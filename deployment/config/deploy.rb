@@ -1,3 +1,4 @@
+#Testing changes to deployment script
 require 'rubygems'
 require 'aws-sdk-v1'
 load '/usr/share/tomcat6/scripts/config/aws.config'
